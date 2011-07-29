@@ -1,2 +1,3 @@
 Here's some interesting text to stage for Repository1.
 Now with even more awesome text!
+And yet again some more text.
