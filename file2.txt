@@ -2,3 +2,4 @@ Here's a new file.  Can I get it in the submodule?
 woo hoo
 Another change woo hoo.
 This change is directly in the test repo.
+Another direct repo change.
