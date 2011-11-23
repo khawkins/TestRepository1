@@ -3,3 +3,4 @@ woo hoo
 Another change woo hoo.
 This change is directly in the test repo.
 Another direct repo change.
+Staging another change, this time from the submodule path.
